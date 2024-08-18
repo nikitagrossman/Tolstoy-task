@@ -30,7 +30,9 @@ A React application to fetch and display metadata from URLs. Users can add multi
    cd Tolstoy-task
    
 3. **Install dependencies for both backend and frontend:**
-    - Frontend:
+   
+ - Frontend:
+      
    ```bash
     cd Frontend
     npm install
