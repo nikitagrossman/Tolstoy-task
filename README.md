@@ -67,4 +67,5 @@ A React application to fetch and display metadata from URLs. Users can add multi
   cd Backend
   npm test
 ## Screenshots 📸
+<img width="1722" alt="image" src="https://github.com/user-attachments/assets/3540005a-63c4-4c50-bf7c-4b63ed905a66">
 
